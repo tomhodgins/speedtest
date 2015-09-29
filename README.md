@@ -1,4 +1,7 @@
-<h2>SpeedTest<small style="display:block;font-size:18pt;font-weight:normal;color:#777">responsive web testing</small></h2>
+# SpeedTest
+## Responsive Web Testing
+
+![http://staticresource.com/speedtest.html](http://i.imgur.com/apRbOiV.png)
 
 SpeedTest is an HTML5 app that lets you test websites at a variety of resolutions very quickly.
 
