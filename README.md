@@ -1,9 +1,8 @@
 # SpeedTest
+
 ### Responsive Web Testing
 
-![http://staticresource.com/speedtest.html](http://i.imgur.com/apRbOiV.png)
-
-SpeedTest is an HTML5 app that lets you test websites at a variety of resolutions very quickly.
+<p><img src="http://i.imgur.com/apRbOiV.png" style="max-width: 100px; float: right; margin: 0 0 0 15px">SpeedTest is an HTML5 app that lets you test websites at a variety of resolutions very quickly.</p>
 
 It also works on mobile, which allows you to test websites at a variety of widths on a phone or tablet where you can't normally change the width of the browser.
 
