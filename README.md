@@ -1,6 +1,6 @@
 # SpeedTest
 
-<img src="http://i.imgur.com/apRbOiV.png">
+<a href="http://staticresource.com/speedtest.html"><img src="http://i.imgur.com/apRbOiV.png"></a>
 
 ### Responsive Web Testing
 
