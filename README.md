@@ -1,5 +1,5 @@
 # SpeedTest
-## Responsive Web Testing
+### Responsive Web Testing
 
 ![http://staticresource.com/speedtest.html](http://i.imgur.com/apRbOiV.png)
 
