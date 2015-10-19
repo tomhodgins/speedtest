@@ -69,13 +69,13 @@
       charCode==13 && loadURL() // enter key loads url
     }
     var iframe = document.getElementsByTagName('iframe')[0];
-    function resizeIframe(width, height){
+    function resizeIframe(width,height){
       iframe.style.width = width
       iframe.style.height = height+'px'
       updateOutput()
     }
     function loadURL(){
-      iframe.setAttribute('src', urlInput.value)
+      iframe.setAttribute('src',urlInput.value)
       urlInput.blur()
       updateOutput()
     }
