@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html manifest=speedtest.manifest>
+<html manifest=cache.manifest>
 <head>
   <meta charset=utf-8>
   <title>SpeedTester</title>
@@ -52,9 +52,9 @@
   </nav>
   <iframe></iframe>
   <script>
+    var urlInput = document.querySelectorAll('[type=url]')[0];
     onload = function(){
-      var height = window.innerHeight - 115,
-          urlInput = document.querySelectorAll('[type=url]')[0];
+      var height = window.innerHeight - 115;
       resizeIframe('100%', height)
       if (window.location.search.substring(1)){
         urlInput.value = window.location.search.substring(1)
