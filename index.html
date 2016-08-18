@@ -58,9 +58,8 @@
       load = window.location.search.substring(1),
       span = document.querySelector('span')
   document.addEventListener('DOMContentLoaded',function(){
+    iframe.style.width = '100%'
     autoHeight()
-    autoWidth()
-    iframe.width = window.innerWidth+'px'
     if (load){
       url.value = load
       loadURL()
@@ -79,10 +78,6 @@
   })
   function autoHeight(){
     iframe.style.height = window.innerHeight-nav.offsetHeight-45+'px'
-    updateOutput()
-  }
-  function autoWidth(){
-    iframe.style.width = window.innerWidth-30+'px'
     updateOutput()
   }
   function resizeIframe(width){
